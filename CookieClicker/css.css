@@ -1,0 +1,15 @@
+.content{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
